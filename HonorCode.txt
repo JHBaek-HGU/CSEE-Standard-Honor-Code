@@ -1,0 +1,130 @@
+<HGU CSEE Standard (v.0.2)>
+HGU CSEE is a higher educational institution that cultivates excellent and honest professionals
+who will serve God and people by playing a role as salt and light in the darkening world. A CSEE
+student should strive to develop expertise in IT-related fields based on the unshakable integrity of
+the Christian spirit exemplified by love and righteousness. This guideline aims to clarify the
+standard of honesty, sincerity and responsibility the students should keep in order that they may
+overcome temptations they encounter during their studies and develop into trustworthy and
+capable professionals.
+ Responsibility in academic endeavors
+    - Studying is not only a means of employment, but also a process of self-development
+    to become trustworthy experts who can serve God and their neighbors with their
+    own specialties. Students should understand that finding their given talent is their
+    main calling during their academic years. Therefore, students should dedicate their
+    efforts to grow in knowledge, character, and spirituality by doing their best in all
+    activities including lectures, labs, practices, assignments, exams, and projects.
+    - The goal of studying is not only to find employment in the future, but also to
+    become trustworthy professionals who can serve God and their neighbors with their
+    own specialties. Students should understand that finding and cultivating their given
+    talent is their main calling during their academic years. Therefore, students should
+    dedicate their efforts to grow in knowledge, character and spirituality by diligently
+    participating in all activities, including lectures, labs, practices, assignments, exams,
+    and projects.
+ Responsibility of conscience
+    - Students in CSEE should strive to become reliable and trustworthy experts, as
+    honesty and integrity is no less important than professional knowledge for changing
+    the world. Students should prevent themselves from falling into temptations or
+    committing any kind of dishonest behavior. The standards of academic dishonesty
+    and cheating are described in the “CSEE Honor Code Guidelines”.
+    - If students witness any academic dishonesty, they should immediately report the
+    incident to the professor, the dean, or anyone in charge of the course so that proper
+    guidance and disciplinary action can be given. 
+ Responsibility as a member of the community
+    - Students should consider their friends, juniors, and seniors as colleagues who will
+    establish God’s kingdom in the professional field together, and thereby help, respect
+    and be polite to one another.
+    - Students should fulfill their responsibilities expected of them as formal members of
+    CSEE and help build the community by participating in official events of the
+    department or the student council.
+    - As members of the society, the nation and the world, students should participate in
+    volunteer activities to realize love and righteousness. Especially, they should care for
+    and dedicate their services to the neighbors in need. 
+  
+<CSEE Honor Code Guidelines>
+The standards of honesty that students should keep during the academic years in CSEE of HGU
+are stated as follows.
+ Attendance
+    - Students should acknowledge that studying is a holy calling and do their best to
+    attend every class.
+    - A legitimate attendance means arriving in the classroom before the class begins and
+    participating in the entire class. If a student arrives in the classroom within 15
+    minutes after the class begins, it will be recorded as ‘late’. (or ‘tardy’) If a student
+    arrives after the 15 minutes of the start of class, it will be recorded as ‘absence’.
+    - Marking her/his own attendance sheet without attending the class or marking other
+    student’s attendance sheet who is absent is regarded as cheating.
+    - If students find errors in their attendance record, they may/should ask the professor
+    for a review and correction. Modifying the record without the approval of the
+    professor is prohibited.
+ Assignments
+    - Assignments are an educational activity necessary to fully understand the lecture, and
+    to apply the materials to practical problems. Students should complete all
+    assignments with honesty and sincerity to develop the knowledge and skills intended
+    in the assignment.
+    - Submitted assignments are reflected in a grade evaluation. Therefore, student should
+    never commit any kinds of dishonest behavior including acquisition, utilization,
+    request, and providing of unauthorized information or assistance that can disrupt the
+    fairness of evaluation.
+    - It is allowed to get help from peers in order to understand the lecture materials,
+    announcements, or the directions for homework. However, each student should
+    complete the entire assignments on their own.
+    - Submitting assignments or program codes written by others or acquired from the
+    internet without explicit approval of the professor is regarded as cheating.
+    - Showing or lending one’s own homework to other student is also considered
+    cheating that disturbs fair evaluation and hinders the academic achievement of the 
+    other student.
+    - It is regarded as cheating if two or more students conduct their homework together
+    and submit it individually when the homework is not a group assignment.
+    - One may receive help from other students if a problem in the assignment could not
+    be solved even with the best effort; however, the assistance should never go beyond
+    the correction of basic grammatical errors. It is cheating to get help about design,
+    logic, and algorithm required in assignments from other person than the professor,
+    TA, and tutor.
+    - It can be suspected or regarded as cheating if the similarity between assignments
+    submitted by different students is beyond an acceptable degree that can be
+    considered as a coincidence or when the student is not able to explain in detail
+    about their homework.
+ Examination
+    - Examination is an educational act necessary for evaluation of the students’
+    achievement and for encouraging the students to absorb the material in the process
+    of preparation.
+    - Student should do their best to prepare for exams in order to improve her/his own
+    knowledge and skill, and should fully engage in the test during examination hour.
+    - Accessing or providing unauthorized information, including other students’ answer
+    sheets, is regarded as cheating. The use of electronic devices, including cell phones
+    and computers, without permission is strictly prohibited.
+    - Entering or leaving the classroom during the examination before the finish time
+    without permission is regarded as cheating.
+ Laboratory (Experiment and/or Practical exercise)
+    - Unless explicitly allowed by the professor, using some or all of the report written by
+    other students while writing a pre-report or the main report is considered as
+    cheating.
+    - Lending or showing one’s report to others also corresponds to cheating.
+    - It can be suspected or regarded as cheating, if students cannot explain their reports
+    in detail.
+    - It is cheating if students conduct an experiment or practical exercise by referring to 
+    other students’ pre-report (in case of team project, referring other team’s report)
+    while doing experiment and practice.
+    - Showing or lending one’s code (in case of team project, showing to other team) also
+    corresponds to cheating.
+ Team Project
+    - Team project is an educational procedure which helps the students to develop majorrelated skills and abilities as well as teamwork, communication skills, and morality
+    through the experience of carrying out a mission as a team.
+    - As a member of the team, each student should fulfill their responsibility by diligently
+    completing individual tasks and respecting other members.
+    - Students should do their best in team projects as poor performance of one member
+    impacts that whole team and causes unnecessary damage.
+    - In case of mutual peer evaluation in a team project, each member should evaluate
+    other students fairly based on their role and contribution. It is cheating to request or
+    to give higher evaluation beyond the actual contribution, especially to a member
+    who has poorly participated.
+    - It is cheating if a team uses the whole or part of the product that is not completed
+    by team members except when it is clearly allowed.
+ Grade
+    - Grade is determined solely by the student’s achievement. It should be measured fairly
+    according to the proper procedure and standards set by the professor and the
+    university.
+    - When a student finds obvious errors or mistakes in their scores for exams or
+    assignments, one should contact the professor via appropriate procedures within the
+    announced time period.
+    - Students may not ask for correction of scores or grade change other than the case
+    described above. 
